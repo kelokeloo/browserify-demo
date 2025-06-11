@@ -27,6 +27,7 @@ coverage/
 .eslintcache
 .node_repl_history
 .yarn-integrity
+.parcel-cache
 
 # OS specific files
 .DS_Store
